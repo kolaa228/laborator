@@ -1,0 +1,2 @@
+# laborator
+exersarea comenzilor
